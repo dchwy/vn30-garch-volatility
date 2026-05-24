@@ -18,6 +18,4 @@ outputs/figures/*
 outputs/tables/*
 !outputs/tables/.gitkeep
 
-reports/*
-!reports/.gitkeep
-!reports/VN30_GARCH_Report.pdf
+
