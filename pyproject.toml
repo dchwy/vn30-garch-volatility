@@ -5,7 +5,7 @@ description = "Modeling and forecasting VN30 index volatility using GARCH-family
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [
-    { name = "YOUR NAME" }
+    { name = "Do Cong Huy" }
 ]
 dependencies = [
     "numpy>=1.26",
